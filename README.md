@@ -1,2 +1,2 @@
 # pandas-challenge
-pandas-challenge-Module
+pandas-challenge-module
